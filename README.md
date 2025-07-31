@@ -1,6 +1,8 @@
 # Masked Language Modeling with BERT in Multi-GPU Settings
 
-[![Run on Kaggle](https://img.shields.io/badge/Kaggle-Run%20Notebook-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/reshalfahsi/mlm-bert-multi-gpu)
+<div align="center">
+    <a href="https://www.kaggle.com/code/reshalfahsi/mlm-bert-multi-gpu"><img src="https://img.shields.io/badge/Kaggle-Run%20Notebook-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
+</div>
 
 This project demonstrates how to train a masked language model using BERT in a multi-GPU environment on Kaggle. The training process is powered by HuggingFace's ``transformers`` and ``accelerate`` libraries, making distributed training seamless and accessible. The model is fine-tuned on the Wikitext dataset provided by Salesforce.
 
